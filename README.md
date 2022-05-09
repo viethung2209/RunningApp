@@ -76,6 +76,11 @@ then paste into string.xml
 ![image](https://user-images.githubusercontent.com/75416674/167459751-47946ba9-4635-471b-bbe2-e766b98b5eba.png)
 ![image](https://user-images.githubusercontent.com/75416674/167459812-ee1faeef-f25e-4958-9409-38d429db37dd.png)
 
-
+名前：Notes App
+OS：Android
+言語：Kotlin
+機能：メモの追加、編集、削除。 メモを色で並べ替えます。 メモを色、入力した日付で並べ替える
+建築：クリーンな建築
+使用されるライブラリ：
 
 
